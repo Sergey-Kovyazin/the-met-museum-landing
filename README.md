@@ -24,3 +24,12 @@ HTML, SCSS, JavaScript.
 - Custom Animations.
 - Interactive Elements.
 - Smooth Scrolling.
+
+## How to Use
+To use the Dia Landing Page project:
+
+- Clone the repository to your local machine.
+- Open the project files in your preferred code editor.
+- Customize the content, styling, and functionality to fit your needs.
+- Preview the changes in a web browser to see the updated landing page.
+- Deploy the landing page to a web hosting service or platform of your choice to share it with others.

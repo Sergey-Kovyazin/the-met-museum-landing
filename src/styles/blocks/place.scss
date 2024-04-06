@@ -3,10 +3,11 @@
     overflow: hidden;
     width: 100%;
     max-height: 130px;
+    transition: 0.3s;
 
     &:hover {
       transition: 0.3s;
-      transform: scale(110%);
+      transform: scale(105%);
     }
 
     @include mobile {
@@ -23,6 +24,7 @@
 
     &--2 {
       overflow: hidden;
+      transition: 0.3s;
 
       @include ipad {
         max-height: 284px;
@@ -30,7 +32,7 @@
 
       &:hover {
         transition: 0.3s;
-        transform: scale(110%);
+        transform: scale(105%);
       }
     }
   }

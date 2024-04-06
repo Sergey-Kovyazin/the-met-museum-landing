@@ -36,10 +36,11 @@
   &__photo {
     width: 100%;
     margin-bottom: 24px;
+    transition: 0.3s;
 
     &:hover {
       transition: 0.3s;
-      transform: scale(110%);
+      transform: scale(105%);
     }
   }
 
