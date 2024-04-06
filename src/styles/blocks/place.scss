@@ -23,6 +23,7 @@
 
     &--2 {
       overflow: hidden;
+
       @include ipad {
         max-height: 284px;
       }
