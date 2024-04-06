@@ -26,7 +26,7 @@ HTML, SCSS, JavaScript.
 - Smooth Scrolling.
 
 ## How to Use
-To use the Dia Landing Page project:
+To use this project:
 
 - Clone the repository to your local machine.
 - Open the project files in your preferred code editor.
