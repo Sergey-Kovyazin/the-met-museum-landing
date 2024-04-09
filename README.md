@@ -28,8 +28,19 @@ HTML, SCSS, JavaScript.
 ## How to Use
 To use this project:
 
-- Clone the repository to your local machine.
-- Open the project files in your preferred code editor.
-- Customize the content, styling, and functionality to fit your needs.
-- Preview the changes in a web browser to see the updated landing page.
-- Deploy the landing page to a web hosting service or platform of your choice to share it with others.
+- Clone the Repository: Clone the Met Museum landing page repository to your local machine. You can do this by running the following command in your terminal:<br>
+  "git clone https://github.com/Sergey-Kovyazin/the-met-museum-landing.git"
+- Navigate to the Directory: Once the repository is cloned, navigate to the project directory using the cd command:<br>
+  "cd the-met-museum-landing"
+- Install Dependencies: Before you can start customizing the landing page, install all the necessary dependencies. You can do this by running:<br>
+  "npm install"
+- Customize the Content: Now that the project is set up, you can start customizing the content to match your requirements. Open the HTML, SCSS, and JavaScript files in your preferred code editor and make the necessary changes.
+- View the Changes: After making your customizations, you can preview the changes locally by running the development server:<br>
+  "npm start"<br>
+This will start a local development server, and you can view the Met Museum landing page in your web browser at http://localhost:3000.
+- Build for Production: Once you are satisfied with your changes and ready to deploy the landing page, you can build the project for production:<br>
+  "npm run build"<br>
+This command will create an optimized build of the landing page in the build directory, which you can then deploy to your web server or hosting service.
+- Deploy: Finally, deploy the built files to your web server or hosting service of choice and share your beautifully customized Met Museum landing page with the world!
+  That's it! You're now ready to create a stunning landing page with Met Museum. If you have any questions or need further assistance, feel free to reach out to me.<br>
+  Happy coding!

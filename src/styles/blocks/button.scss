@@ -47,5 +47,9 @@
   &--primary {
     background-color: #ae1c23;
     width: 100%;
+
+    &:hover {
+      background-color: #eb343d;
+    }
   }
 }
